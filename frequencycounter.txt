@@ -25,7 +25,7 @@ For the LiquidCrystal library, much thanks to:
    Limor Fried (http://www.ladyada.net)
    Tom Igoe
 
-// Alan added the serial output option that can be viewed with the Arduino serial monitor
+ Alan added the serial output option that can be viewed with the Arduino serial monitor
 */
 
 #include <LiquidCrystal.h>
